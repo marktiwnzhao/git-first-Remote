@@ -2,3 +2,13 @@ body
 {
     background-color: rgb(0, 140, 255);
 }
+h1{
+    color:darkorange;
+    text-align: center;
+}
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
